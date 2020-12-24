@@ -13,7 +13,7 @@ Ce projet de COO correspond à la gestion d'une compétition sportive. Elle est 
 Ouvrez un terminal et **placez-vous dans le dossier où vous voulez que le dépôt soit cloné**. Exécutez la commande suivante : 
 
 ``` git
-git clone https://gitlab-etu.fil.univ-lille1.fr/billouard/billouard-bevilacqua-coo-projet.git
+git clone https://github.com/getCamBill/competition_sportive_coo.git
 ```
 Placez vous désormais dans le terminal dans le dossier BILLOUARD-BEVILACQUA-COO-Projet et considérez cet emplacement comme la racine du dossier.
 A la racine du projet dans un terminal et installer le .jar : 

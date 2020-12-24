@@ -1,4 +1,4 @@
-# BILLOUARD-BEVILACQUA-COO-Projet
+# COO-Projet
 
 ## Présentation 
 
